@@ -75,7 +75,7 @@ python3 -m venv .venv && source .venv/bin/activate && ./run_rl_swarm.sh
 
 ![image](https://github.com/user-attachments/assets/12bd5b78-c49f-429f-9bdb-d23dad35e3d1)
 
-- Login With Email / Google etc.
+#### Login With Email / Google etc.
 
 ![image](https://github.com/user-attachments/assets/181d5cc7-0e3c-417c-a335-26192021aab2)
 
