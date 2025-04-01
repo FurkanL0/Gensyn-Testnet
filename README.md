@@ -106,6 +106,10 @@ wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm64.tgz && tar -x
 
 ![image](https://github.com/user-attachments/assets/4f317fd4-2715-4143-bcd2-5020fc5a8955)
 
+![image](https://github.com/user-attachments/assets/702ddad2-c713-4f50-8a8e-8bd9df82082f)
+
+
+
 ```bash
 screen -S ngrok
 ```
