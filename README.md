@@ -82,6 +82,17 @@ python3 -m venv .venv && source .venv/bin/activate && ./run_rl_swarm.sh
 ![image](https://github.com/user-attachments/assets/0b100bc8-9bef-4326-b126-e3a5a4fdabf4)
 
 
+![image](https://github.com/user-attachments/assets/5e629dfd-7de8-4e50-be22-6b59ceac2580)
+
+
+#### N, Enter ; 
+
+![image](https://github.com/user-attachments/assets/676a7637-81e1-46f2-a63f-b90ed9e02d78)
+
+
+![image](https://github.com/user-attachments/assets/5035cd6e-1789-48ce-ac14-52a0cff8f504)
+
+
 ## OTP ; 
 
 #### CC : https://x.com/Zun2025
@@ -119,3 +130,14 @@ screen -S ngrok
 ```bash
 ngrok http 3000
 ```
+
+#### Click This Link ; 
+
+![image](https://github.com/user-attachments/assets/5cad13ae-2a42-49f0-ae0c-6669eb0225b6)
+
+
+![image](https://github.com/user-attachments/assets/b20cf6c5-62b0-4701-9d7c-ac9a7a524213)
+
+![image](https://github.com/user-attachments/assets/a73b6736-31fb-4fc3-84b6-ef81f2cace0d)
+
+![image](https://github.com/user-attachments/assets/d787c7b9-1128-477c-8214-faf9a5aa140f)
