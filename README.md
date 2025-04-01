@@ -99,9 +99,13 @@ python3 -m venv .venv && source .venv/bin/activate && ./run_rl_swarm.sh
 
 
 
-## N, Enter ; 
+## Y, Enter ; 
 
-![image](https://github.com/user-attachments/assets/aeae7894-a94b-4e13-a4bd-d6ba347c220d)
+![image](https://github.com/user-attachments/assets/c0472fa2-19bb-4805-b5fa-5a96e9a0129e)
+
+#### Paste Your HuggingFace Key ; 
+
+![image](https://github.com/user-attachments/assets/556891b2-dfae-4edd-b07d-6057c2ce5f82)
 
 
 ![image](https://github.com/user-attachments/assets/45bb15f9-1f72-4b72-8a84-be8d1445a5fd)
