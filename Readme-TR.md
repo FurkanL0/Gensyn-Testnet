@@ -139,4 +139,12 @@ ngrok http 3000
 
 ![Ngrok Link](https://github.com/user-attachments/assets/5cad13ae-2a42-49f0-ae0c-6669eb0225b6)
 
+
+![image](https://github.com/user-attachments/assets/b20cf6c5-62b0-4701-9d7c-ac9a7a524213)
+
+![image](https://github.com/user-attachments/assets/a73b6736-31fb-4fc3-84b6-ef81f2cace0d)
+
+![image](https://github.com/user-attachments/assets/d787c7b9-1128-477c-8214-faf9a5aa140f)
+
+
 Bu adımları takip ederek Gensyn Testnet'e başarılı şekilde katılabilirsiniz. 🎯
