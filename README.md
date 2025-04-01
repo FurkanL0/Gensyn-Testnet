@@ -51,6 +51,18 @@ nvm install --lts
 sudo apt update && sudo apt install -y python3 python3-venv python3-pip git yarn && curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add - && echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list && sudo apt update && sudo apt install -y yarn
 ```
 
+## HugginFace ; 
+
+#### Crate Account : https://huggingface.co/
+
+![image](https://github.com/user-attachments/assets/62af4936-bcd6-4f3b-8f92-4c34cfb0e388)
+
+
+#### Access Token with Write permissions
+
+![image](https://github.com/user-attachments/assets/dc54f075-915c-438c-a3b7-9c11b55d7c8f)
+
+
 ## 5. Install RL-Swarm Repo ; 
 
 ```bash
