@@ -13,6 +13,14 @@
 | **Storage**      | x+ GB SDD                   |
 | **Network**      | 100 Mbps (1 Gbps+ recommended) |
 
+
+#### ARm64 Server Usage ( Netcup ARM64 - 10 Cpu - 16 Ram + 4 GB Swap Ram ) ; 
+
+![image](https://github.com/user-attachments/assets/7f0cf1ea-ea91-45f0-834f-80bdc75798da)
+
+![image](https://github.com/user-attachments/assets/a100aec7-1d03-4729-b823-a745aa08a3a5)
+
+
 | Server Provider        | Link              | Features |
 |------------------|----------------------------|----------------------------|
 | **Contabo**          | [Link](https://www.dpbolvw.net/click-101330552-12454592)                     | Cheap / Paypal  |
