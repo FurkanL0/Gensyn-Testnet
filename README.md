@@ -114,5 +114,6 @@ wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm64.tgz && tar -x
 screen -S ngrok
 ```
 
-
-
+```bash
+ngrok http 3000
+```
