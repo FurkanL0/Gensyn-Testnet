@@ -66,3 +66,6 @@ python3 -m venv .venv && source .venv/bin/activate && ./run_rl_swarm.sh
 ![image](https://github.com/user-attachments/assets/230a556a-fb87-42e9-9c79-33742d178f9a)
 
 - Y , enter.
+
+
+![image](https://github.com/user-attachments/assets/230675d9-71f1-434e-85d7-a685e2d73dbf)
