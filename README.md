@@ -58,3 +58,11 @@ git clone https://github.com/FurkanL0/rl-swarm.git && cd rl-swarm
 ```bash
 screen -S gensynrlswarm
 ```
+## 7. Run The SWARM :) 
+```bash
+python3 -m venv .venv && source .venv/bin/activate && ./run_rl_swarm.sh
+```
+
+![image](https://github.com/user-attachments/assets/230a556a-fb87-42e9-9c79-33742d178f9a)
+
+- Y , enter.
