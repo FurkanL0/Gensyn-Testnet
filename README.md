@@ -73,5 +73,6 @@ python3 -m venv .venv && source .venv/bin/activate && ./run_rl_swarm.sh
 
 #### Visit This Link on Your Browser ; 
 
-![image](https://github.com/user-attachments/assets/6ce19c84-7b31-4ede-9dbc-a8a278923f99)
+![image](https://github.com/user-attachments/assets/12bd5b78-c49f-429f-9bdb-d23dad35e3d1)
+
 
