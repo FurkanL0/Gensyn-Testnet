@@ -66,7 +66,7 @@ sudo apt update && sudo apt install -y python3 python3-venv python3-pip git yarn
 
 ![Hugging Face Hesap](https://github.com/user-attachments/assets/62af4936-bcd6-4f3b-8f92-4c34cfb0e388)
 
-**Yazma İzinli Erişim Tokeni Alın**
+**Write İzinli Tokeni Alın Tek Seferlik verir Kayıt Edin**
 
 ![Token Alma](https://github.com/user-attachments/assets/dc54f075-915c-438c-a3b7-9c11b55d7c8f)
 
