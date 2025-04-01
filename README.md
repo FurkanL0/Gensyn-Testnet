@@ -96,6 +96,14 @@ python3 -m venv .venv && source .venv/bin/activate && ./run_rl_swarm.sh
 
 - CTRL A + D
 
+
+## Save .pem ; 
+
+- /root/rl-swarm/swarm.pem 
+
+![image](https://github.com/user-attachments/assets/48d21c7b-0eef-4a85-9732-41f1bc009f2a)
+
+
 ## OTP ; 
 
 #### CC : https://x.com/Zun2025
