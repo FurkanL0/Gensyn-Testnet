@@ -84,12 +84,31 @@ python3 -m venv .venv && source .venv/bin/activate && ./run_rl_swarm.sh
 
 ## OTP ; 
 
-## CC : https://x.com/Zun2025
+#### CC : https://x.com/Zun2025
 
 #### Install NGROK
+
+
+- For x86 Servers ; 
 
 ```bash
 wget https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-linux-amd64.tgz && tar -xvzf ngrok-v3-stable-linux-amd64.tgz && sudo mv ngrok /usr/local/bin/
 ```
 
+- For Arm64 Servers ; 
+```bash
+wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm64.tgz && tar -xvzf ngrok-stable-linux-arm64.tgz && sudo mv ngrok /usr/local/bin/
+```
+
 - Link : https://ngrok.com/
+- Sing UP
+- Your AuthToken
+
+![image](https://github.com/user-attachments/assets/4f317fd4-2715-4143-bcd2-5020fc5a8955)
+
+```bash
+screen -S ngrok
+```
+
+
+
