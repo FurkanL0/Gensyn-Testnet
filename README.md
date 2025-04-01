@@ -67,13 +67,15 @@ screen -S gensynrlswarm
 python3 -m venv .venv && source .venv/bin/activate && ./run_rl_swarm.sh
 ```
 
-![image](https://github.com/user-attachments/assets/230a556a-fb87-42e9-9c79-33742d178f9a)
+![image](https://github.com/user-attachments/assets/886d20a9-00d0-425f-ba52-6b601e581acb)
+
 
 - Y , enter.
 
 #### Visit This Link on Your Browser ; 
 
-![image](https://github.com/user-attachments/assets/12bd5b78-c49f-429f-9bdb-d23dad35e3d1)
+![image](https://github.com/user-attachments/assets/a5b3bbf6-f171-42e1-b41b-54d52fe2e0de)
+
 
 #### Login With Email / Google etc.
 
