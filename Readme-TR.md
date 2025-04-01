@@ -104,11 +104,11 @@ Terminalde `Y` tuşuna basın ve `Enter` yapın.
 
 ![PEM Dosyası](https://github.com/user-attachments/assets/48d21c7b-0eef-4a85-9732-41f1bc009f2a)
 
-## 10. OTP Doğrulama
+##  OTP Doğrulama - Mail Doğrulaması Hata Alanlara
 
 - **CC**: [Zun2025](https://x.com/Zun2025)
 
-## 11. Ngrok Kurulumu
+##  Ngrok Kurulumu
 
 **x86 Sunucular İçin:**
 
@@ -126,7 +126,7 @@ Ngrok hesabı oluşturun: [Ngrok](https://ngrok.com/)
 
 ![Ngrok Auth Token](https://github.com/user-attachments/assets/4f317fd4-2715-4143-bcd2-5020fc5a8955)
 
-## 12. Ngrok Başlatma
+##  Ngrok Başlatma
 
 ```bash
 screen -S ngrok
@@ -135,7 +135,7 @@ screen -S ngrok
 ngrok http 3000
 ```
 
-## 13. Tarayıcıda Açın
+##  Tarayıcıda Açın
 
 ![Ngrok Link](https://github.com/user-attachments/assets/5cad13ae-2a42-49f0-ae0c-6669eb0225b6)
 
