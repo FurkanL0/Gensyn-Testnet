@@ -7,7 +7,7 @@
 | X        | Minimum              |
 |------------------|----------------------------|
 | **CPU**          | arm64 / amd64 |
-| **RAM**          | 16++ GB                     |
+| **RAM**          | 16++ GB ( 20++ )                    |
 | **GPU** **CUDA**     | RTX 3090, RTX 4090, A100, H100                 |
 | **Python**     | Python >= 3.10 (For Mac, you may need to upgrade)                 |
 | **Storage**      | x+ GB SDD                   |
