@@ -90,8 +90,9 @@ python3 -m venv .venv && source .venv/bin/activate && ./run_rl_swarm.sh
 ![image](https://github.com/user-attachments/assets/676a7637-81e1-46f2-a63f-b90ed9e02d78)
 
 
-![image](https://github.com/user-attachments/assets/5035cd6e-1789-48ce-ac14-52a0cff8f504)
+![image](https://github.com/user-attachments/assets/45bb15f9-1f72-4b72-8a84-be8d1445a5fd)
 
+- CTRL A + D
 
 ## OTP ; 
 
