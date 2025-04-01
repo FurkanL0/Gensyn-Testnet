@@ -81,11 +81,11 @@ python3 -m venv .venv && source .venv/bin/activate && ./run_rl_swarm.sh
 
 ![image](https://github.com/user-attachments/assets/0b100bc8-9bef-4326-b126-e3a5a4fdabf4)
 
+![image](https://github.com/user-attachments/assets/a25090c5-2792-415f-a1d3-7cb66dee5f88)
 
-![image](https://github.com/user-attachments/assets/5e629dfd-7de8-4e50-be22-6b59ceac2580)
 
 
-#### N, Enter ; 
+## N, Enter ; 
 
 ![image](https://github.com/user-attachments/assets/aeae7894-a94b-4e13-a4bd-d6ba347c220d)
 
