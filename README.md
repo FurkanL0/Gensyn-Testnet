@@ -46,3 +46,15 @@ sudo apt install -y nodejs
 ```bash
 sudo apt update && sudo apt install -y python3 python3-venv python3-pip git yarn && curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add - && echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list && sudo apt update && sudo apt install -y yarn
 ```
+
+## 5. Install RL-Swarm Repo ; 
+
+```bash
+git clone https://github.com/FurkanL0/rl-swarm.git && cd rl-swarm
+```
+
+## 6. Screen ; 
+
+```bash
+screen -S gensynrlswarm
+```
