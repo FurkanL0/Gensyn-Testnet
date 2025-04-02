@@ -92,6 +92,10 @@ python3 -m venv .venv && source .venv/bin/activate && ./run_rl_swarm.sh
 
 Terminalde `Y` tuşuna basın ve `Enter` yapın.
 
+#### Tarayıcınızdan bu linke ulaşın yada Sunucu IP'niz sunucuip:3000 ile erişebilirsiniz ; 
+
+![image](https://github.com/user-attachments/assets/a5b3bbf6-f171-42e1-b41b-54d52fe2e0de)
+
 ![Giriş](https://github.com/user-attachments/assets/181d5cc7-0e3c-417c-a335-26192021aab2)
 
 ![Oturum Açma](https://github.com/user-attachments/assets/0b100bc8-9bef-4326-b126-e3a5a4fdabf4)
