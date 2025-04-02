@@ -104,7 +104,7 @@ Terminalde `Y` tuşuna basın ve `Enter` yapın.
 
 ## 9. `.pem` Dosyasını Kaydetme
 
-- `/root/rl-swarm/swarm.pem` konumuna kaydedin.
+- `/root/rl-swarm/swarm.pem` konumunda bulunuyor pc'nize kaydedin.
 
 ![PEM Dosyası](https://github.com/user-attachments/assets/48d21c7b-0eef-4a85-9732-41f1bc009f2a)
 
