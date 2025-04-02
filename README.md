@@ -74,7 +74,7 @@ sudo apt update && sudo apt install -y python3 python3-venv python3-pip git yarn
 ## 5. Install RL-Swarm Repo ; 
 
 ```bash
-git clone https://github.com/FurkanL0/rl-swarm.git && cd rl-swarm
+git clone https://github.com/gensyn-ai/rl-swarm.git && cd rl-swarm
 ```
 
 ## 6. Screen ; 
