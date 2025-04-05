@@ -60,3 +60,8 @@ ngrok http 3000
 
 
 ![image](https://github.com/user-attachments/assets/b20cf6c5-62b0-4701-9d7c-ac9a7a524213)
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FurkanL0&style=flat-square&color=red&label=Profile+Views+/+Repo+Views+" alt="Repo / Profile Views" />
+</p>
