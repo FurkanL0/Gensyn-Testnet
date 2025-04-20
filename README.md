@@ -184,7 +184,19 @@ ngrok http 3000
 ![image](https://github.com/user-attachments/assets/d787c7b9-1128-477c-8214-faf9a5aa140f)
 
 
+## Update ; 
 
+```bash
+cd rl-swarm
+git pull
+cd modal-login
+yarn upgrade
+yarn add next@latest
+yarn add viem@latest
+cd ..
+
+./run_rl_swarm.sh
+```
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FurkanL0&style=flat-square&color=red&label=Profile+Views+/+Repo+Views+" alt="Repo / Profile Views" />
 </p>
