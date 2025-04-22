@@ -197,6 +197,31 @@ cd ..
 
 ./run_rl_swarm.sh
 ```
+
+## PS1 Problem ; 
+```bash
+nano /root/.bashrc
+```
+
+- Change This ; 
+
+- [ -z "$PS1" ] && return
+
+- To This ; 
+
+```bash
+[ -z "${PS1-}" ] && return
+```
+
+```bash
+source ~/.bashrc
+```
+```bash
+./run_rl_swarm.sh
+```
+
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FurkanL0&style=flat-square&color=red&label=Profile+Views+/+Repo+Views+" alt="Repo / Profile Views" />
 </p>
