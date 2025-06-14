@@ -76,13 +76,7 @@ sudo apt update && sudo apt install -y python3 python3-venv python3-pip git yarn
 ```bash
 git clone https://github.com/gensyn-ai/rl-swarm.git && cd rl-swarm
 ```
-```bash
-cd modal-login
-yarn upgrade
-yarn add next@latest
-yarn add viem@latest
-cd ..
-```
+
 ## 6. Screen ; 
 
 ```bash
