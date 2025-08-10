@@ -64,3 +64,10 @@ gswarm --version
 
 <img width="862" height="334" alt="image" src="https://github.com/user-attachments/assets/c348d2c4-345c-4798-8bbb-49a5e0f50261" />
 
+## Rolümüzü Alalım ; 
+
+```bash
+gswarm
+```
+
+<img width="557" height="339" alt="image" src="https://github.com/user-attachments/assets/c055bd04-d989-4851-ab20-b2d001f4f2da" />
