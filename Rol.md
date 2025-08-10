@@ -66,9 +66,6 @@ gswarm --version
 
 ## Rolümüzü Alalım ; 
 
-```bash
-screen -S gswarm
-```
 
 ```bash
 gswarm
