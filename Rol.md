@@ -78,3 +78,15 @@ gswarm
 - 1. İstediği Telegram Botfather'dan aldığımız Use this token to access the HTTP API:'nin altındaki key.
 - 2. Tarayıcıdan girip aldığımız chat id.
 - 3. Dashboard'dan Aldığımız EAO adress.
+
+#### Discord'a Gidiyoruz ve Link To Access Kanalına Giriyoruz ; 
+
+- /link-telegram Yazıp Yukarıdan Bot'u seçip enterliyoruz.
+
+<img width="605" height="341" alt="image" src="https://github.com/user-attachments/assets/d153f710-43af-4b45-9d07-307d905a1ad7" />
+
+- Telegramda Oluşturduğunuz Bot'a gelin - Discord üzerinde verilen /verify 13435454 yazanı yapıştırıp yollayın.
+
+<img width="483" height="172" alt="image" src="https://github.com/user-attachments/assets/a9de83fa-0d22-49e7-8277-efa98bc5027b" />
+
+- Bitti Rolünüz tanımlandı DC üzerinden kontrol edebilirsiniz.
