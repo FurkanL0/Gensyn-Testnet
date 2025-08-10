@@ -37,9 +37,14 @@ gswarm --version
 <img width="500" height="61" alt="image" src="https://github.com/user-attachments/assets/55db8f31-36cc-4e4f-a021-2aee71b563ae" />
 
 
-```bash
-screen -S gswarm
-```
+## Telegram ; 
+
+- Telegramda BotFather'a gidip /newbot yazıp enterliyoruz.
+- İsim veriyoruz
+- Sonrasında kullanıcı adı tarzında isim seçtiriyor diyelim zattirizort koyacaksınız zattirizort_bot yazacaksınız bot olduğunu göstermek için.
+
+<img width="624" height="628" alt="image" src="https://github.com/user-attachments/assets/52d22013-ab35-4406-9de4-d999190019d6" />
+
 
 
 
