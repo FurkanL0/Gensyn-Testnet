@@ -4,7 +4,9 @@
 
 - Screen ; 
 
-
+```bash
+screen -S gswarm
+```
 
 - Go ; 
 
