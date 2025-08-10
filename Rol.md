@@ -39,7 +39,7 @@ gswarm --version
 
 ## Telegram ; 
 
-- Telegramda BotFather'a gidip /newbot yazıp enterliyoruz.
+- Telegramda BotFather'a gidip /newbot yazıp enterliyoruz. Link https://t.me/BotFather
 - İsim veriyoruz
 - Sonrasında kullanıcı adı tarzında isim seçtiriyor diyelim zattirizort koyacaksınız zattirizort_bot yazacaksınız bot olduğunu göstermek için.
 
