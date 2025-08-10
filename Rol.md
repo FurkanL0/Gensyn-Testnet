@@ -55,3 +55,12 @@ gswarm --version
 - Bot üzerinden aldığımız API'yi yazıyoruz - örnekteki gibi başında bot olacak onu değiştirmeyin.
 
 <img width="396" height="436" alt="image" src="https://github.com/user-attachments/assets/9731bbfd-8752-452a-9963-29445fac63e0" />
+
+- Chat ID Kaydedelim.
+
+### EOA Adresini Alalım ; 
+
+- Link : https://dashboard.gensyn.ai/
+
+<img width="862" height="334" alt="image" src="https://github.com/user-attachments/assets/c348d2c4-345c-4798-8bbb-49a5e0f50261" />
+
