@@ -54,3 +54,4 @@ gswarm --version
 - Örnek : https://api.telegram.org/bot1234567890:ABCdefGHIjklMNOpqrsTUVwxyz/getUpdates
 - Bot üzerinden aldığımız API'yi yazıyoruz - örnekteki gibi başında bot olacak onu değiştirmeyin.
 
+<img width="396" height="436" alt="image" src="https://github.com/user-attachments/assets/9731bbfd-8752-452a-9963-29445fac63e0" />
