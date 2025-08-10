@@ -67,7 +67,14 @@ gswarm --version
 ## Rolümüzü Alalım ; 
 
 ```bash
-gswarm
+screen -S gswarm
 ```
 
-<img width="557" height="339" alt="image" src="https://github.com/user-attachments/assets/c055bd04-d989-4851-ab20-b2d001f4f2da" />
+```bash
+gswarm
+```
+<img width="671" height="296" alt="image" src="https://github.com/user-attachments/assets/5b18907b-1b39-4f56-8dcf-b4cc4d577597" />
+
+- 1. İstediği Telegram Botfather'dan aldığımız Use this token to access the HTTP API:'nin altındaki key.
+- 2. Tarayıcıdan girip aldığımız chat id.
+- 3. Dashboard'dan Aldığımız EAO adress.
