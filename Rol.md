@@ -45,6 +45,10 @@ gswarm --version
 
 <img width="624" height="628" alt="image" src="https://github.com/user-attachments/assets/52d22013-ab35-4406-9de4-d999190019d6" />
 
+- Sonrasında botunuza tıklayın ve bir tane mesaj atın nokta olur random olur.
 
+#### Chat ID Alalım ; 
 
+- Örnek : https://api.telegram.org/bot1234567890:ABCdefGHIjklMNOpqrsTUVwxyz/getUpdates
+- Bot üzerinden aldığımız API'yi yazıyoruz - örnekteki gibi başında bot olacak onu değiştirmeyin.
 
