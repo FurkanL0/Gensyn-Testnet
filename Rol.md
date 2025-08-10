@@ -49,6 +49,8 @@ gswarm --version
 
 #### Chat ID Alalım ; 
 
+
+- Aşağıdaki Linki düzenliyip tarayıcımızdan gireceğiz.
 - Örnek : https://api.telegram.org/bot1234567890:ABCdefGHIjklMNOpqrsTUVwxyz/getUpdates
 - Bot üzerinden aldığımız API'yi yazıyoruz - örnekteki gibi başında bot olacak onu değiştirmeyin.
 
